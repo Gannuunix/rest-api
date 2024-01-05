@@ -1,0 +1,16 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "Employee": [
+      {
+        "id": 1,
+        "name": "GaNnU",
+        "DOB": "20/04/2000"
+      }
+    ]
+  }
